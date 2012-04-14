@@ -1,1 +1,1 @@
-web: bundle exec rakep server --env $RACK_ENV --port $PORT
+web: bundle exec rakep server --port $PORT
