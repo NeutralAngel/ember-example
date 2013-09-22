@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+ruby "1.9.3"
+
 gem "json"
 gem "rack"
 gem "rake-pipeline", :git => "https://github.com/livingsocial/rake-pipeline.git"
